@@ -1,3 +1,10 @@
+> Check **task_description.txt** for problem description.  
+> The text below is an original README I sent to the team.  
+> I passed this stage successfully and proceeded with the hiring process further.
+
+---
+
+
 ## Install dependencies
 
 I assume you have already installed `python 3.11+` and `pip`.  
